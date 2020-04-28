@@ -22,7 +22,7 @@
         android:id="@+id/change"
         android:layout_width="119dp"
         android:layout_height="64dp"
-        android:text="change"
+        android:text="ROLL"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
